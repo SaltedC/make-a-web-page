@@ -1,0 +1,44 @@
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+h1 {
+	text-align: center;
+	background-color: #294860;
+}
+body {
+	font-family: Garamond;
+}
+
+.LessonNotes{
+	background-color: rgb(170, 193, 234);
+	border-width: 10px;
+	border-radius: 10px;
+	border-style: dotted;
+}
+
+.Lesson{
+	border-radius: 20px;
+	padding: 20px;
+}
+
+.LessonTitle{
+	text-align: center;
+	font-weight: bold;
+	background-color: cornflowerblue;
+	border-width: 5px;
+
+}
+
+.Highlights{
+	font-style: italic;
+	font-weight: bold;
+}
+
+.HighlightText{
+	font-style: normal;
+	font-weight: normal;
+}
